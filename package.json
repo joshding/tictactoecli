@@ -1,0 +1,23 @@
+{
+  "name": "TicTacToeCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshding/tictactoecli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshding/tictactoecli/issues"
+  },
+  "homepage": "https://github.com/joshding/tictactoecli#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
